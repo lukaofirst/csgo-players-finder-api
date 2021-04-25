@@ -12,7 +12,7 @@
 * CSS
 * JavaScript (Vanilla JavaScript)
 
-To see the final result of this project, check the link: https://lukaofirst.github.io/csgo-players-finder/
+To see the final result of this project, check the link: https://lukaofirst.github.io/csgo-players-finder-api/
 
 ## [PT-BR]
 
@@ -26,4 +26,4 @@ To see the final result of this project, check the link: https://lukaofirst.gith
 * CSS
 * JavaScript (JavaScript Puro)
 
-Para ver o resultado final desse projeto, cheque o link: https://lukaofirst.github.io/csgo-players-finder/
+Para ver o resultado final desse projeto, cheque o link: https://lukaofirst.github.io/csgo-players-finder-api/
