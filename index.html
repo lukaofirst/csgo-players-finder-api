@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="images/csgoIcon.ico" size="16x16" type="image/ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="css/style.css">
+    <title>CSGOPlayersFinder API</title>
+</head>
+<body>
+    <!-- MAIN HEADER -->
+    <header class="main-header">
+        <div class="container">
+            <div class="title-wrapper">
+                <h2>CSGOPlayersFinder API</h2>
+                <p>Search for CSGO Players and see their info</p>
+                <span>This project was made for educational purpose</span>
+                <br>
+                <span>All the images and info's is available on <a href="https://www.hltv.org/" target="_blank">HLTV.org</a></span>
+            </div><!-- /.title-wrapper -->
+        </div><!-- /.container -->
+    </header>
+
+    <!-- SECTION INPUT -->
+    <section class="section-input">
+        <div class="container">
+            <input type="text" id="input-name" placeholder="Player's Nickname... (e.g. coldzera, device, FalleN, s1mple, Twistzz)">
+        </div><!-- /.container -->
+    </section>
+
+    <!-- SECTION EXAMPLES -->
+    <section class="examples">
+        <h4>Search For Player's Nickname or Player's Name</h4>
+        <div class="container">
+            <div class="team1 box">
+                <ul>
+                    <li>coldzera</li>
+                    <li>Twistzz</li>
+                    <li>broky</li>
+                    <li>rain</li>
+                    <li>karrigan</li>
+                </ul>
+            </div><!-- /.team1.box -->
+            <div class="team2 box">
+                <ul>
+                    <li>device</li>
+                    <li>Magisk</li>
+                    <li>dupreeh</li>
+                    <li>gla1ve</li>
+                    <li>Xyp9x</li>
+                </ul>
+            </div><!-- /.team2.box -->
+            <div class="team3 box">
+                <ul>
+                    <li>arT</li>
+                    <li>yuurih</li>
+                    <li>VINI</li>
+                    <li>KSCERATO</li>
+                    <li>junior</li>
+                </ul>
+            </div><!-- /.team3.box -->
+            <div class="team4 box">
+                <ul>
+                    <li>FalleN</li>
+                    <li>NAF</li>
+                    <li>EliGE</li>
+                    <li>Stewie2K</li>
+                    <li>Grim</li>
+                </ul>
+            </div><!-- /.team4.box -->
+            <div class="team5 box">
+                <ul>
+                    <li>s1mple</li>
+                    <li>electronic</li>
+                    <li>Boombl4</li>
+                    <li>Perfecto</li>
+                    <li>B1T</li>
+                </ul>
+            </div><!-- /.team5.box -->
+        </div><!-- /.container -->
+    </section>
+    
+    <!-- SECTION RESULTS -->
+    <section class="results">
+        <div class="container">
+            <div class="profile-wrapper">
+                <!-- Dynamically Inserted via JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="container">
+            <p>Developed by <a href="https://github.com/lukaofirst" target="_blank"> @lukaofirst</a></p>
+        </div><!-- /.container -->
+    </footer>
+
+    <script src="js/playerfinder.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

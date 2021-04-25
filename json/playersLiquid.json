@@ -1,0 +1,52 @@
+[
+    {
+        "nickname": "FalleN",
+        "name": "Gabriel Toledo",
+        "age": 29,
+        "nationality": "Brazil",
+        "team": "Team Liquid",
+        "role": "AWPer, In-game Leader",
+        "majorWins": "2x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "NAF",
+        "name": "Keith Markovic",
+        "age": 23,
+        "nationality": "Canada",
+        "team": "Team Liquid",
+        "role": "Rifler (Lurker)",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "EliGE",
+        "name": "Jonathan Jablonowski",
+        "age": 23,
+        "nationality": "United States",
+        "team": "Team Liquid",
+        "role": "Rifler",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "Stewie2K",
+        "name": "Jake Yip",
+        "age": 23,
+        "nationality": "United States",
+        "team": "Team Liquid",
+        "role": "Rifler",
+        "majorWins": "1x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "Grim",
+        "name": "Michael Wince",
+        "age": 20,
+        "nationality": "United States",
+        "team": "Team Liquid",
+        "role": "Rifler",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    }
+]

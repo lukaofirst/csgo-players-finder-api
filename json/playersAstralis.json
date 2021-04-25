@@ -1,0 +1,52 @@
+[
+    {
+        "nickname": "device",
+        "name": "Nicolai Reedtz",
+        "age": 25,
+        "nationality": "Denmark",
+        "team": "Astralis",
+        "role": "AWPer",
+        "majorWins": "4x",
+        "majorMvp": "2x"
+    },
+    {
+        "nickname": "Magisk",
+        "name": "Emil Reif",
+        "age": 23,
+        "nationality": "Denmark",
+        "team": "Astralis",
+        "role": "Rifler",
+        "majorWins": "3x",
+        "majorMvp": "1x"
+    },
+    {
+        "nickname": "dupreeh",
+        "name": "Peter Rasmussen",
+        "age": 28,
+        "nationality": "Denmark",
+        "team": "Astralis",
+        "role": "Rifler",
+        "majorWins": "4x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "gla1ve",
+        "name": "Lukas Rossander",
+        "age": 25,
+        "nationality": "Denmark",
+        "team": "Astralis",
+        "role": "AWPer",
+        "majorWins": "4x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "Xyp9x",
+        "name": "Andreas Højsleth",
+        "age": 25,
+        "nationality": "Denmark",
+        "team": "Astralis",
+        "role": "Rifler",
+        "majorWins": "4x",
+        "majorMvp": "0x"
+    }
+]

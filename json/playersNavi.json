@@ -1,0 +1,52 @@
+[
+    {
+        "nickname": "s1mple",
+        "name": "Aleksandr Kostyliev",
+        "age": 23,
+        "nationality": "Ukraine",
+        "team": "Natus Vincere",
+        "role": "AWPer",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "electronic",
+        "name": "Denis Sharipov",
+        "age": 22,
+        "nationality": "Russia",
+        "team": "Natus Vincere",
+        "role": "Rifler",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "Boombl4",
+        "name": "Kirill Mikhailov",
+        "age": 22,
+        "nationality": "Russia",
+        "team": "Natus Vincere",
+        "role": "Rifler, In-game leader",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "Perfecto",
+        "name": "Ilya Zalutskiy",
+        "age": 21,
+        "nationality": "Russia",
+        "team": "Natus Vincere",
+        "role": "Rifler",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "B1T",
+        "name": "Valeriy Vakhovskiy",
+        "age": 18,
+        "nationality": "Russia",
+        "team": "Natus Vincere",
+        "role": "Rifler",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "nickname": "arT",
+        "name": "Andrei Piovezan",
+        "age": 25,
+        "nationality": "Brazil",
+        "team": "Furia",
+        "role": "Rifler, In-game Leader",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "yuurih",
+        "name": "Yuri Santos",
+        "age": 21,
+        "nationality": "Brazil",
+        "team": "Furia",
+        "role": "Rifler",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "VINI",
+        "name": "Vinicius Figueiredo",
+        "age": 21,
+        "nationality": "Brazil",
+        "team": "Furia",
+        "role": "Rifler",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "KSCERATO",
+        "name": "Kaike Cerato",
+        "age": 21,
+        "nationality": "Brazil",
+        "team": "Furia",
+        "role": "Rifler",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "junior",
+        "name": "Paytyn Johnson",
+        "age": 20,
+        "nationality": "United States",
+        "team": "Furia",
+        "role": "AWPer",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    }
+]

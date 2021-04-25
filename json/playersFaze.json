@@ -1,0 +1,52 @@
+[
+    {
+        "nickname": "coldzera",
+        "name": "Marcelo David",
+        "age": 26,
+        "nationality": "Brazil",
+        "team": "FaZe",
+        "role": "Rifler",
+        "majorWins": "2x",
+        "majorMvp": "2x"
+    },
+    {
+        "nickname": "Twistzz",
+        "name": "Russel Van Dulken",
+        "age": 21,
+        "nationality": "Canada",
+        "team": "FaZe",
+        "role": "Rifler",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "broky",
+        "name": "Helvijs Saukants",
+        "age": 20,
+        "nationality": "Latvia",
+        "team": "FaZe",
+        "role": "AWPer",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "rain",
+        "name": "Håvard Nygaard",
+        "age": 26,
+        "nationality": "Norway",
+        "team": "FaZe",
+        "role": "Rifler",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    },
+    {
+        "nickname": "karrigan",
+        "name": "Finn Andersen",
+        "age": 31,
+        "nationality": "Denmark",
+        "team": "FaZe",
+        "role": "Rifler, In-game Leader",
+        "majorWins": "0x",
+        "majorMvp": "0x"
+    }
+]
